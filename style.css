@@ -1,0 +1,34 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    background-color: #FAD7A0;
+}
+
+.width-logo {
+    width: 180px;
+}
+
+.hero {
+    height: 70vh;
+    width: 100%;
+    background-image: url("colin-meg-zdzICfhsTOM-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+/* @media screen and (max-width:365px) {
+    main {
+        padding-top: 40px;
+    }
+}
+
+@media screen and (max-width:365px) {
+    .hero {
+        padding-top: 30px;
+    }
+} */
